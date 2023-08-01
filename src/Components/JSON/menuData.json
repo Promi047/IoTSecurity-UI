@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Indicator",
+    "icon": "bi-view-list",
+    "children":[
+      {
+        "title": "Registration",
+        "path": "/Components/JS/indicatorReg"
+      },
+      {
+        "title": "Search",
+        "path": "/Components/JS/indicatorSearch"
+      }
+    ]
+  },
+  {
+    "title": "Trust Query",
+    "path": "/Components/JS/trustQuery",
+    "icon": "bi-view-list"
+  }
+]
